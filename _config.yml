@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Alok Bhatnagar </p> 
+logo: /assets/img/mypic1.jpg
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/alok-bhatnagar-1200201b/">LinkedIn</a> |
+  <a href="https://github.com/alokbhatnagar0580">GitHub</a>
+  <br>   
+  AI/ML | Data Science | Cloud Enablement | App Modernization | Data Analytics | 
+  Microsoft Azure Certified | AWS Certified | 
+  <br>
+  </p>
 theme: jekyll-theme-minimal
